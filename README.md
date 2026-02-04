@@ -9,19 +9,25 @@ Computer Science student focused on building practical, working systems.
 - Automation, bots, and small tooling projects
 - Learning how systems fail — and how to fix them
 
-## Projects
-- **Room Booking Systems** — Multiple implementations with login, roles, and access control
-- **Seaforde Interiors Order Manager** — CRUD application built for a real business
-- **GonePhishing** — Educational WiFi phishing tool demonstrating real-world attack vectors
-- **Laravel Examples** — Middleware, Spatie permissions, file handling, task systems
-- **Bots & Utilities** — Discord bots and automation scripts
+##Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
 
-## Tech
-- **Languages:** PHP, Python, Java, SQL  
-- **Frameworks:** Laravel  
-- **Tools:** Linux, Git, MySQL, Blade  
-- **Concepts:** MVC, auth systems, CRUD, security basics
+### Frameworks & Tools
+- Laravel  
+- Linux  
+- Git
 
+### Concepts
+- MVC  
+- Authentication & authorisation  
+- CRUD systems  
+- Security fundamentals
+  
 ## Certification
 
 **PMI Project Management Ready®** — Foundational Level  
