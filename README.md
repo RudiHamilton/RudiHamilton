@@ -9,7 +9,7 @@ Computer Science student focused on building practical, working systems.
 - Automation, bots, and small tooling projects
 - Learning how systems fail — and how to fix them
 
-##Languages
+## Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
