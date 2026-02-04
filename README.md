@@ -1,1 +1,6 @@
-PMI Project Management Ready. Certification. Foundational level. Issued by Project Management Institute   [![Certification](https://img.shields.io/badge/Credly-Certified-blue)](https://www.credly.com/badges/1daf8ffc-0be6-452e-a8be-a72ebd5cddb2)
+## Certification
+
+**PMI Project Management Ready®** — Foundational Level  
+Issued by Project Management Institute (PMI)
+
+[![Certification](https://img.shields.io/badge/Credly-Certified-blue)](https://www.credly.com/badges/1daf8ffc-0be6-452e-a8be-a72ebd5cddb2)
