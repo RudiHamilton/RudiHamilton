@@ -36,6 +36,7 @@ Issued by Project Management Institute (PMI)
 [![Certification](https://img.shields.io/badge/Credly-Certified-blue)](https://www.credly.com/badges/1daf8ffc-0be6-452e-a8be-a72ebd5cddb2)
 
 **Microsoft Certified: Azure Fundamentals**
+
 Issued by Microsoft
 
 [![Certification](https://img.shields.io/badge/Credly-Certified-blue)](https://www.credly.com/badges/5e6e482d-488c-49ad-99b1-30fec20732cb/public_url)
