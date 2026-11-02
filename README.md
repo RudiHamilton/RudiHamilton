@@ -1,6 +1,6 @@
 # Rudi
 
-Computer Science student focused on building practical, working systems.
+Computer Science Graduate focused on building practical, working systems.
 
 ## Interests
 - Backend web development (PHP, Laravel)
