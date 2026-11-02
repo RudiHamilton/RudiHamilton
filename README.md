@@ -5,7 +5,6 @@ Computer Science student focused on building practical, working systems.
 ## Interests
 - Backend web development (PHP, Laravel)
 - Authentication, authorisation, and CRUD systems
-- Security awareness and phishing education
 - Automation, bots, and small tooling projects
 - Learning how systems fail — and how to fix them
 
